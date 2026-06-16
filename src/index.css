@@ -11,5 +11,5 @@
 .app{
   min-height:100vh;
   display:grid;
-  background:url('./assets/bgi.jpg') no-repeat center center/cover;
+  background:url('./assets/bgimg.jpg') no-repeat center center/cover;
 }

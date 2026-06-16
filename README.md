@@ -1,14 +1,22 @@
+ - create the interface 
+ - style with css
+ - connect weather API
+ - implement search option
+ - handle type wrong cities,API  crashes
+
+ ## 📂 Project Folder Structure
+
+ src
+└── components
+  ├── Weather.jsx
+  └── Weather.css
+
+
 ## hacks
 
 -### ⚡ rafce Shortcut
 `rafce` is a VS Code snippet (from ES7+ React Snippets) that auto-generates a React functional component with an arrow function and default export. It helps developers quickly scaffold components in a consistent format.
-
-##folder structure
--src
--> components
-->Weather.jsx
-->Weather.css
-
+ 
 ##API Connect
 
 - go to https://openweathermap.org/api
