@@ -186,6 +186,6 @@ npm run dev
 
 Developed using React and OpenWeatherMap API.
 
-
+---
   <img width="1428" height="916" alt="image" src="https://github.com/user-attachments/assets/8a39ae92-a207-4dc6-9804-d3c3fb40212b" />
 
