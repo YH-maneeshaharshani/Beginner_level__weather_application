@@ -3,7 +3,7 @@
 
 A simple React-based Weather Application that allows users to search for any city and view real-time weather information using the OpenWeatherMap API.
 
-## 🚀 Features
+## 🚀 Features..
 
 * Search weather by city name
 * Display temperature, humidity, wind speed, and weather conditions
