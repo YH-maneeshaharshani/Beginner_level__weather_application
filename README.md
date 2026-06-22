@@ -189,3 +189,6 @@ Developed using React and OpenWeatherMap API.
 ---
   <img width="1428" height="916" alt="image" src="https://github.com/user-attachments/assets/8a39ae92-a207-4dc6-9804-d3c3fb40212b" />
 
+  <img width="861" height="877" alt="image" src="https://github.com/user-attachments/assets/6c931fb7-f8fb-42bc-9ec6-c24f5b7d5ae8" />
+
+
